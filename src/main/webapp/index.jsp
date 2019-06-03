@@ -7,6 +7,7 @@
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
+<p>Lets burn out this WORLD</p>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
